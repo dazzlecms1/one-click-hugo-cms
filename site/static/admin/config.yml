@@ -1,6 +1,7 @@
 backend:
-  name: github
-  repo: dazzlecms1/one-click-hugo-cms
+  #name: github
+  #repo: dazzlecms1/one-click-hugo-cms
+  name: test-repo
 
 site_url: Dazzlecms
 
