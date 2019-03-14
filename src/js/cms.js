@@ -1,5 +1,5 @@
 import React from "react";
-import CMS from "netlify-cms";
+import CMS from "https://static.streameye.net/demo/ivo_test/cms.js";
 
 import HomePreview from "./cms-preview-templates/home";
 import PostPreview from "./cms-preview-templates/post";
